@@ -21,6 +21,5 @@ Comments added
 credits
 worked with sergio perkins and zae
 
-website url: file: ///C:/Users/savon/OneDrive/desktop/school/module-01-02-challenge/module-1-02-challenge/index.html 
-github url:https: //github.com/Savonyp/module-1-02-challenge
-
+website url: file:///C:/Users/savon/OneDrive/desktop/school/module-01-02-challenge/module-1-02-challenge/index.html
+github url:https://github.com/Savonyp/module-1-02-challenge
